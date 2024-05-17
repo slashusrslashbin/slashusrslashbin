@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on making my own programming language, I'm pretty sure this is my 3rd attempt at making one.
+- 📫 How to reach me: You can reach me on Discord, my username on there is *@Skidmusdev*.
+
 <!--
 **skidmus/skidmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Skidmus's GitHub stats](https://github-readme-stats.vercel.app/api?username=skidmus&show_icons=true&theme=dark&custom_title=Github%20stats)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=skidmus&show_icons=true&theme=dark&custom_title=Github%20stats)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skidmus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
