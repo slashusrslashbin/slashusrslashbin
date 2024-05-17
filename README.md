@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=skidmus&show_icons=true&theme=dark&custom_title=Github%20stats)](https://github.com/anuraghazra/github-readme-stats)
-[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skidmus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=skidmus&show_icons=true&theme=dark&custom_title=Github%20stats)](https://github.com/skidmus)
+[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skidmus&show_icons=true&theme=dark)](https://github.com/skidmus)
