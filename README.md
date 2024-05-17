@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on making my own programming language, I'm pretty sure this is my 3rd attempt at making one.
-- 📫 How to reach me: You can reach me on Discord, my username on there is *@Skidmusdev*.
+- 📫 How to reach me: You can reach me on Discord, my username on there is *@Skidmusdev*. Some of my other accounts are listed on [this page](https://guns.lol/skidmus)
 
 <!--
 **skidmus/skidmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
