@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently not really doing much except for sometimes working on [swift client](https://swiftclient.lol/), mostly just chilling ig.
+- 🔭 Currently not really doing much, mostly just chilling ig.
 - 📫 How to reach me: You can reach me on Discord, my username on there is *@Skidmusdev*.
 
 <!--
