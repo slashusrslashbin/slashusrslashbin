@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 Currently not really doing much, mostly just chilling ig.
-- 📫 How to reach me: You can reach me on Discord, my username on there is *@jokaromo.*
+- 📫 How to reach me: You can reach me on Discord, my username on there is *@slashusrslashbin.*
 
 <!--
-**jokaromo/jokaromo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**slashusrslashbin/slashusrslashbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jokaromo&show_icons=true&theme=dark&custom_title=Github%20stats)](https://github.com/jokaromo)
-[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jokaromo&show_icons=true&theme=dark)](https://github.com/jokaromo)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=slashusrslashbin&show_icons=true&theme=dark&custom_title=Github%20stats)](https://github.com/slashusrslashbin)
+[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slashusrslashbin&show_icons=true&theme=dark)](https://github.com/slashusrslashbin)
