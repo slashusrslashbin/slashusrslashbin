@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 Currently not really doing much, mostly just chilling ig.
-- 📫 How to reach me: You can reach me on Discord, my username on there is *@slashusrslashbin.*
+- 📫 How to reach me: You can reach me on Discord, my username on there is *@feratium*
 
 <!--
 **slashusrslashbin/slashusrslashbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
